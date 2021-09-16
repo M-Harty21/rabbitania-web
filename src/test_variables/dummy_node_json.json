@@ -1,0 +1,26 @@
+[
+    {
+      "id": 8,
+      "userEmail": "matthewnharty@gmail.com",
+      "user": null,
+      "xPos": 0,
+      "yPos": 0,
+      "active": false
+    },
+    {
+      "id": 9,
+      "userEmail": "jh.harraway@gmail.com",
+      "user": null,
+      "xPos": 0,
+      "yPos": 0,
+      "active": false
+    },
+    {
+      "id": 1,
+      "userEmail": "runtimeterrors.301@gmail.com",
+      "user": null,
+      "xPos": 0,
+      "yPos": 0,
+      "active": false
+    }
+  ]
